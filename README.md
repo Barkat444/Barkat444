@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaik Barkatulla</h1>
+<h1 align="center">Hi 👋, I'm Barkatulla Shaik</h1>
 <h3 align="center">Software QA Engineer Ex - Fullstack developer</h3>
 <img align="right" alt="Picture" width=300 style="border-radius:8px margin-top:10px" src="https://media.nature.com/lw800/magazine-assets/d41586-019-00653-5/d41586-019-00653-5_16459152.jpg">
 
