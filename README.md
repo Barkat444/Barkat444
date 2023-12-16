@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Barkat444](https://github.com/Barkat444)
 
-- 💬 Ask me about **MEAN, MERN and Spring Framework**
+- 💬 Ask me about **Full Stack Dev (MEAN, MERN), DevOps CI/CD, QA Automation and Networking**
 
 - 📫 How to reach me **skbarkat444@gmail.com**
 
