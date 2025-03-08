@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Barkatulla Shaik</h1>
-<h3 align="center">DevOps Engineer | Ex - Fullstack developer</h3>
+<h1 align="center">Hi 👋, I'm Barkat Shaik</h1>
+<h3 align="center">DevOps Engineer | Ex - Fullstack Developer</h3>
 <img align="right" alt="Picture" width=300 style="border-radius:8px margin-top:10px" src="https://media.nature.com/lw800/magazine-assets/d41586-019-00653-5/d41586-019-00653-5_16459152.jpg">
 
 
@@ -16,17 +16,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/barkat-shaik-8a26bb18a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barkat-shaik-8a26bb18a" height="30" width="40" /></a>
 </p>
-
-
-
-
-
-
-
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barkat444&show_icons=true&locale=en&layout=compact" alt="barkat444" /></p> <br>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=barkat444&show_icons=true&locale=en" alt="barkat444" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barkat444&" alt="barkat444" /></p>
