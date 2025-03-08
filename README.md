@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barkat Shaik</h1>
-<h3 align="center">DevOps Engineer | Ex - Fullstack Developer</h3>
+<h3 align="center">DevOps Engineer | Ex - Fullstack developer</h3>
 <img align="right" alt="Picture" width=300 style="border-radius:8px margin-top:10px" src="https://media.nature.com/lw800/magazine-assets/d41586-019-00653-5/d41586-019-00653-5_16459152.jpg">
 
 
@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Barkat444](https://github.com/Barkat444)
 
-- 💬 Ask me about **Full Stack Dev (MEAN, MERN), DevOps CI/CD, QA Automation and Networking**
+- 💬 Ask me about **DevOps CI/CD, QA Automation, Networking and Full Stack Dev**
 
-- 📫 How to reach me **skbarkat444@gmail.com**
+- 📫 Email **skbarkat444@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
