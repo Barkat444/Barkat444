@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Barkat Shaik</h1>
-<h3 align="center">DevOps Engineer | Ex - Fullstack developer</h3>
+<h3 align="center">DevOps Engineer</h3>
 <img align="right" alt="Picture" width=300 style="border-radius:8px margin-top:10px" src="https://media.nature.com/lw800/magazine-assets/d41586-019-00653-5/d41586-019-00653-5_16459152.jpg">
 
 
